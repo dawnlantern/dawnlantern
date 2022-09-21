@@ -23,6 +23,10 @@
   + Use ar tool to make static library.
   
     `ar -rcs lib<library name>.a <file1>.o <file2>.o`
+
+    `r`: update\
+    `c`: create\
+    `s`: build an index
   
   + Compile static library into executable file.
   
